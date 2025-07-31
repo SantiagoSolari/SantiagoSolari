@@ -1,8 +1,8 @@
  <!--
 -->
+# Hi, I'm Santiago Solari 
 
-
-<h2 align="left">Hi, I'm <a href="#" target="_blank" rel="noopener noreferrer">Santiago Solari</a>
+### <img src="https://media1.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300"/> 
 
 - 🎓 I'm a Developer Full Stack 
 - 💻 I’m currently studying at university 
