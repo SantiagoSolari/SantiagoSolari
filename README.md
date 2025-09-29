@@ -7,8 +7,7 @@
 
 - 🎓 I'm a Developer Full Stack 
 - 💻 I’m currently studying at university 
-- ⭐ 2026's Objective: LLegar vivo
-- ⚡ I love programming, coffe, videogames, develop in backend.
+- ⚡ I love programming, coffee, videogames, develop in backend.
 
 
 ### Skills Languages
